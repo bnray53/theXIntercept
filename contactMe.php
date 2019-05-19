@@ -65,8 +65,8 @@
 		<h4>&nbsp;</h4>
 		<div id="form">
 		
-		<!--The following form was commented out so this website could be demoed on github without a functioning backend-->
-		<!--<form id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">-->
+		
+		<form id="contact" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 			<h2 id="head1">Ready to Get Started?</h2>
 			<h4 id="head2">Contact me today to schedule a free consultation, and<br /> get a reply within 24 hours!</h4>
 				<fieldset>
